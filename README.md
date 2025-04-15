@@ -1,2 +1,2 @@
 # TestRepoWithJenkins
-Test Repository with connection to Jenkins
+Test Repository with lauch a pipiline from Jenkins
